@@ -18,7 +18,7 @@ DB_USERNAME=
 DB_PASSWORD=
 
 ## Database location
-- 1. Firstly create "users" collection in you're mongodb database.
+- 1. First create "users" collection in you're mongodb database.
     then import data from this file ./database/users.json
 
 ## Requirements
