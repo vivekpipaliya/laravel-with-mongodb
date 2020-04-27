@@ -18,11 +18,11 @@ DB_USERNAME=
 DB_PASSWORD=
 
 ## Database location
-- 1. First create "users" collection in you're mongodb database.
+- First create "users" collection in you're mongodb database.
     then import data from this file ./database/users.json
 
 ## Requirements
-- 1. PHP ^7.1.3 Up
+- PHP ^7.1.3 Up
 
 ## run project
     composer install 
