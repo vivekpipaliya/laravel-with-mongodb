@@ -10,12 +10,12 @@ Laravel With Mongodb Demo For Users
 ## Database Configuration
 Change in file => .env from root project
 
-DB_CONNECTION=mongodb
-DB_HOST=127.0.0.1
-DB_PORT=27017
-DB_DATABASE=laravel_mongodb
-DB_USERNAME=
-DB_PASSWORD=
+    DB_CONNECTION=mongodb
+    DB_HOST=127.0.0.1
+    DB_PORT=27017
+    DB_DATABASE=laravel_mongodb
+    DB_USERNAME=
+    DB_PASSWORD=
 
 ## Database location
 - First create "users" collection in you're mongodb database.
